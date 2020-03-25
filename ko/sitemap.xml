@@ -17,20 +17,6 @@
   </url>
   
   <url>
-    <loc>http://LovelyFatty.github.io/ko/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://LovelyFatty.github.io/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="http://LovelyFatty.github.io/ko/"
-                />
-  </url>
-  
-  <url>
     <loc>http://LovelyFatty.github.io/ko/series/</loc>
     <xhtml:link
                 rel="alternate"
@@ -55,6 +41,20 @@
                 rel="alternate"
                 hreflang="ko"
                 href="http://LovelyFatty.github.io/ko/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://LovelyFatty.github.io/ko/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://LovelyFatty.github.io/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="http://LovelyFatty.github.io/ko/"
                 />
   </url>
   

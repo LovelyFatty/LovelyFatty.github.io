@@ -6,13 +6,13 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Series on Hugo Zzo Theme</title>
+    <title>Series on Vicious Cycle</title>
     <link>http://LovelyFatty.github.io/en/series/</link>
-    <description>Recent content in Series on Hugo Zzo Theme</description>
+    <description>Recent content in Series on Vicious Cycle</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>zzossig@gmail.com (zzossig)</managingEditor>
-    <webMaster>zzossig@gmail.com (zzossig)</webMaster>
+    <managingEditor>swzift@gmail.com (swzift)</managingEditor>
+    <webMaster>swzift@gmail.com (swzift)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     
         <atom:link href="http://LovelyFatty.github.io/en/series/index.xml" rel="self" type="application/rss+xml" />
